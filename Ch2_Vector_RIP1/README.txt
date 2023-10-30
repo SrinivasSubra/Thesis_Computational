@@ -3,7 +3,7 @@ Thesis "Iterative algorithms for sparse and low-rank recovery from atypical meas
 
 Chapter 2: ITERATIVE ALGORITHMS FOR SPARSE RECOVERY FROM MEASUREMENT MATRICES SATISFYING AN l1 RESTRICTED ISOMETRY PROPERTY
 
-Written by Srinivas Subramanian and Simon Foucart 
+Written by Srinivas Subramanian 
 
 There are 5 experiments named Exp1, Exp2, .., Exp5
 Run "Exp1.m" to run the first experiment, "Exp2.m" for the second and so on
